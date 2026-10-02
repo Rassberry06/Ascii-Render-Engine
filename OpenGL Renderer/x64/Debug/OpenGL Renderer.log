@@ -1,2 +1,3 @@
 ﻿  Main.cpp
+C:\Users\tobyw\Documents\Git Projects\OpenGL Renderer\Main.cpp(228,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   OpenGL Renderer.vcxproj -> C:\Users\tobyw\Documents\Git Projects\OpenGL Renderer\x64\Debug\OpenGL Renderer.exe
